@@ -51,3 +51,7 @@ whitelist deployed to 0x972aff599D86043ff5533185748e39D9C90A6Cf4
 voting deployed to 0xf451228A2FA8dF0c3a91013C5dc48539D8c26fd4
 
 ## Info concerning EAS
+
+
+## ETHParis link
+https://ethglobal.com/showcase/vlock-x3cny
